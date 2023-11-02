@@ -17,6 +17,11 @@ Aquest repositori se centra en la implementació d'una funció throttle fent ús
 git clone https://github.com/shakebbyisok/throttle-practice.git
 ```
 
+**Entra al directori correcte**:
+ ```
+ cd throttle-practice
+ ```
+
 **Preparació**:
 ```
 npm install
