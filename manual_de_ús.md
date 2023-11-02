@@ -1,6 +1,3 @@
-Per a complementar la documentació de la funció `throttle`, a continuació hi ha el manual d'usuari per al programa de línia de comandes `cli.ts` que utilitza aquesta funció, també redactat en català:
-
----
 
 # Manual d'Usuari per al Programa de Línia de Comandes `cli.ts`
 
@@ -29,6 +26,3 @@ Després d'establir el temps d'espera, el programa demanarà a l'usuari que escr
 
 Per a finalitzar el programa, escriu la paraula "exit" i prem Enter. Apareixerà un missatge de comiat i el programa es tancarà.
 
----
-
-Aquest manual serveix per a guiar els usuaris en l'ús del programa de línia de comandes que implementa la funció `throttle`. Si hi ha més característiques o aspectes específics del programa que desitgis incloure, si us plau, proporciona detalls addicionals.
