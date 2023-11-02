@@ -37,5 +37,7 @@ npm test
 npm start
 ```
 
-**Per veure la funcionalitat en el front-end**: Obrir l'arxiu `index.html` en un navegador. (Amb live-server).
+**Per veure la funcionalitat en el front-end**: Obrir l'arxiu `index.html` en un navegador. (Amb live-server). 
+
+**(En el front-end pots seleccionar el temps de retard)**
 
