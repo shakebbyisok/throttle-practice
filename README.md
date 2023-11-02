@@ -12,6 +12,11 @@ Aquest repositori se centra en la implementació d'una funció throttle fent ús
 
 ### Com executar
 
+**Clona aquest repositori a la teva màquina local**:
+```
+git clone https://github.com/shakebbyisok/throttle-practice.git
+```
+
 **Preparació**:
 ```
 npm install
@@ -27,7 +32,7 @@ npm test
 npm start
 ```
 
-**Per veure la funcionalitat en el front-end**: Obrir l'arxiu `index.html` en un navegador.
+**Per veure la funcionalitat en el front-end**: Obrir l'arxiu `index.html` en un navegador. (Amb live-server).
 
 ---
 
