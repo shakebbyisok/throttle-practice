@@ -34,6 +34,3 @@ npm start
 
 **Per veure la funcionalitat en el front-end**: Obrir l'arxiu `index.html` en un navegador. (Amb live-server).
 
----
-
-Espero que este README sea adecuado para tu proyecto de `throttle`. ¡Házmelo saber si necesitas alguna otra adaptación o detalle adicional!
