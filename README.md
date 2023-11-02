@@ -24,7 +24,7 @@ npm test
 
 **Per iniciar la CLI**:
 ```
-npm run cli
+npm start
 ```
 
 **Per veure la funcionalitat en el front-end**: Obrir l'arxiu `index.html` en un navegador.
